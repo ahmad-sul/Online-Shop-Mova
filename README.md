@@ -24,9 +24,8 @@ Page needs to be responsive for desktop and mobile usage
 
 Technologies
 
-React.js for the page
+-React.js for the page
 
-–Axios for API calls
+-Axios for API calls
 
 - React-Router-Dom for the routing
-- 
